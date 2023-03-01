@@ -1,3 +1,27 @@
+2023-03-01
+ - Added VST tab
+ - Added Ability to upload files
+ - added login System
+ - added sign up system
+ - added reset PW system
+ - Added Featured content to homepage
+ - Fixed error where buttons woudn't redirect
+ - added new functionality to images above buttons
+ - edited header images 
+ - added internal page for general admin
+ - reverted HYperlink colour
+ - added new images to website
+ - added some custom HTML ;)
+ 
+==========================
+2022-12-23
+ - Added headers to different pages 
+ - Created google group ProjectMIDI-Forums 
+ - created Email sufix for the forums (@projectMIDI-Forums)
+ - created introductory post for forums 
+ - added page with full embed containg the forums (IN BETA)
+	
+=========================
 2022-12-21 
  - Changed Site Background to be more abstract and to give more Character
  - Added New/Featured Content tab on the homepage
@@ -6,10 +30,3 @@
  - Changed Hyperlink Colour
  - Changed size of banner to make the site appeaer more professional
  - Found issue with broken downloads
-==========================
-2022-12-21
-	- Added headers to different pages 
-	- Created google group ProjectMIDI-Forums 
-	- created Email sufix for the forums (@projectMIDI-Forums)
-	- created introductory post for forums 
-	- added page with full embed containg the forums (IN BETA)
