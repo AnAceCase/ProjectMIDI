@@ -1,7 +1,7 @@
 # ProjectMIDI
 ### ProjectMIDI is a website dedicated to making MIDIs and Soundfonts free and accesible to all.
 
-###ProjectMIDI is Open To The Public https://sites.google.com/view/projectmidi/home 
+### ProjectMIDI is Open To The Public https://sites.google.com/view/projectmidi/home 
 ProjectMIDI is currently in development and you may have a negative expriance as the webpage may have poor redirects, some downloads will be avalible in this repository
 
 for enquireies please contact ProjectMIDI@Outlook.com
