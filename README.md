@@ -6,7 +6,7 @@ ProjectMIDI is currently in development and you may have a negative expriance as
 
 for enquireies please contact ProjectMIDI@Outlook.com
 
-### Thanks for using ProjectMIDI, I will continue to expand and update this website, if there is any features you want to see please open a feature request in the Issues Tab :)
+### Thanks for using ProjectMIDI, I will continue to expand and update this website, if there is any features or new dowlnloads you want to see please open a feature request in the Issues Tab :)
 
 # FAQ
 Do We Make/Own These files?
