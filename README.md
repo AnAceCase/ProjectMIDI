@@ -12,6 +12,9 @@ for enquireies please contact ProjectMIDI@Outlook.com
 Do We Make/Own These files?
 No, we simply relay them on, most of our files are Gamerips that we distribute under fair use
 
+Do We offer VSTs
+Yes! We host redirects to Some well Known some less known FREE VST'S
+
 Can I Use These For Remixing?
 Absolutely! As the files are Gamerips you can use them to your hearts content and the ones that aren't you can use (with credit to the original maker)
 
