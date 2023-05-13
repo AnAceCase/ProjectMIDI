@@ -3,12 +3,11 @@
 
 ### ProjectMIDI is Open To The Public https://sites.google.com/view/projectmidi/home 
 ProjectMIDI is currently in development and you may have a negative expriance as the webpage may have poor redirects, some downloads will be avalible in this repository
--
--
-Thanks for using ProjectMIDI, I will continue to expand and update this website, if there is any features you want to see please open a feature request in the Issues Tab :)
--
--
+
 for enquireies please contact ProjectMIDI@Outlook.com
+
+### Thanks for using ProjectMIDI, I will continue to expand and update this website, if there is any features you want to see please open a feature request in the Issues Tab :)
+
 # FAQ
 Do We Make/Own These files?
 No, we simply relay them on, most of our files are Gamerips that we distribute under fair use
